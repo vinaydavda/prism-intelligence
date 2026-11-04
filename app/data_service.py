@@ -184,6 +184,3 @@ def get_company_data(symbol: str) -> dict:
         "prices": prices,
         "alternative": alternative,
     }
-
-
-print(get_company_data("ZOMATO"))
