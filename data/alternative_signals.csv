@@ -1,0 +1,10 @@
+date,symbol,metric,value,unit,source
+2026-09-01,ZOMATO,app_downloads,50000,count,synthetic
+2026-10-01,ZOMATO,app_downloads,58000,count,synthetic
+2026-11-01,ZOMATO,app_downloads,68000,count,synthetic
+2026-09-01,ZOMATO,job_postings,100,count,synthetic
+2026-10-01,ZOMATO,job_postings,115,count,synthetic
+2026-11-01,ZOMATO,job_postings,130,count,synthetic
+2026-09-01,ZOMATO,web_traffic,200000,count,synthetic
+2026-10-01,ZOMATO,web_traffic,225000,count,synthetic
+2026-11-01,ZOMATO,web_traffic,260000,count,synthetic
